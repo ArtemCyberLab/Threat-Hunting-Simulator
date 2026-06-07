@@ -19,3 +19,13 @@ Scenario objectives
 Investigate command-line artifacts and reconstruct process trees to reveal the attacker's steps.
 Correlate tool usage with MITRE ATT&CK techniques.
 Map compromised accounts over time.
+
+SOC REPORT !!!
+ID 1000 true positive
+Time of activity: Jun 6th 2026 at 21:26
+List of Affected Entities: support@tryhatme.com
+Reason for Classifying as True Positive: The sender  is asking  the victim about bank details 
+Reason for Escalating the Alert: N/A
+Recommended Remediation Actions: Block the sender adress. Check to see if any other similar emails  were delivered to other users
+List of Attack Indicators: Asking for bank details 
+
