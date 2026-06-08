@@ -29,7 +29,15 @@ Reason for Escalating the Alert: N/A
 Recommended Remediation Actions: Block the sender adress. Check to see if any other similar emails  were delivered to other users
 List of Attack Indicators: Asking for bank details 
 
-ID 1001 
+ID 1001 - 1002
 Time of Activity: Jun 8th 2026 at 20:01
 List of Related Entities: win-3459
 Reason for Classifying as False Positive:  Nothing malicious was detected.
+
+ID 1003
+Time of Activity: Jun 8th 2026 at 20:04
+List of Related Entities:  yani.zubair@tryhatme.com
+Reason for Classifying as False Positive:  Appears to be spam
+
+
+
