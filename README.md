@@ -68,4 +68,17 @@ Quarantine the email.
 Exclude the domain.
 List of Attack Indicators: ImportantInvoice-Febrary.zip
 
+................................................................
+
+ID 1008, ID 1010 
+Time of Activity: Jun 13th 2026 at 17:40
+
+List of Related Entities: 
+host.name: win-3455
+process.name: WUDFHost.exe
+
+Reason for Classifying as False Positive: Nothing malicious was detected.
+
+
+
 
